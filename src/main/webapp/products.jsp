@@ -240,7 +240,7 @@
 
             <h3>Sports Shoes</h3>
 
-            <p class="category">Footwear</p>
+            <p class="category"><strong>Footwear</strong></p>
 
             <p class="price">₹1,999</p>
 
