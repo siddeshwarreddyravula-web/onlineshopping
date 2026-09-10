@@ -66,7 +66,7 @@
 
         .btn {
             display: inline-block;
-            padding: 12px 25px;
+            padding: 13px 25px;
             margin: 5px;
             text-decoration: none;
             border-radius: 5px;

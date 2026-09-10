@@ -202,6 +202,7 @@
             <p class="category">Electronics</p>
 
             <p class="price">₹59,999</p>
+            <p> Quality: excelent</p>
 
             <button class="buy-btn">
                 Buy Now
